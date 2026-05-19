@@ -2,6 +2,10 @@
 
 A deep learning based web application for detecting pneumonia from chest X-ray images using transfer learning with MobileNetV2 and Streamlit deployment.
 
+## 🚀 Live Demo
+
+[Try the live demo here](https://pneumonia-detection-app-29.streamlit.app/)
+
 ---
 
 # Project Overview
