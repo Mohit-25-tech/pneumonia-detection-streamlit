@@ -125,7 +125,7 @@ if uploaded_file is not None:
     st.image(
         image,
         caption="Uploaded X-Ray Image",
-        use_container_width=True
+        width=300
     )
 
 
